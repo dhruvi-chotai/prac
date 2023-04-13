@@ -23,6 +23,7 @@ public class Mail {
     public void setFrom(String from) {
         this.from = from;
     }
+    //hello
 
     public String getTo() {
         return to;
